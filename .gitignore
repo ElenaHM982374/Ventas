@@ -1,6 +1,7 @@
 # Ignorar las credenciales
 keys.json
-
+package-locjk.json
+package.json
 # Ignorar dependencias de Node.js
 node_modules/
 
